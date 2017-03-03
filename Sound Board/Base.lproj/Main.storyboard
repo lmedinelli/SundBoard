@@ -60,6 +60,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="574" y="139"/>
         </scene>
         <!--Sound View Controller-->
         <scene sceneID="XbP-i7-apw">
@@ -123,7 +124,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bny-oc-pUE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="865" y="37"/>
+            <point key="canvasLocation" x="1385" y="139"/>
         </scene>
     </scenes>
 </document>
